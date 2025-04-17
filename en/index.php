@@ -251,7 +251,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Featured Srvices<br></p>
+        <p>Featured Services<br></p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -479,7 +479,7 @@
             <div class="service-item position-relative h-100">
               <a href="../assets/img/service-1.jpg" class="glightbox preview-link d-block w-100 h-100">
                 <img src="../assets/img/service-1.jpg" alt="Service Image" class="img-fluid w-100 h-100 object-fit-cover">
-                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-2"></i>
+                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-4"></i>
               </a>
             </div>
           </div>
@@ -489,7 +489,7 @@
             <div class="service-item d-flex position-relative h-100">
               <a href="../assets/img/service-2.jpg" class="glightbox preview-link d-block w-100 h-100">
                 <img src="../assets/img/service-2.jpg" alt="Service Image" class="img-fluid w-100 h-100 object-fit-cover">
-                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-2"></i>
+                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-4"></i>
               </a>
             </div>
           </div><!-- End Service Item -->
@@ -498,7 +498,7 @@
             <div class="service-item d-flex position-relative h-100">
               <a href="../assets/img/service-3.jpg" class="glightbox preview-link d-block w-100 h-100">
                 <img src="../assets/img/service-3.jpg" alt="Service Image" class="img-fluid w-100 h-100 object-fit-cover">
-                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-2"></i>
+                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-4"></i>
               </a>
             </div>
           </div><!-- End Service Item -->
@@ -507,7 +507,7 @@
             <div class="service-item d-flex position-relative h-100">
               <a href="../assets/img/service-4.jpg" class="glightbox preview-link d-block w-100 h-100">
                 <img src="../assets/img/service-4.jpg" alt="Service Image" class="img-fluid w-100 h-100 object-fit-cover">
-                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-2"></i>
+                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-4"></i>
               </a>
             </div>
           </div><!-- End Service Item -->
@@ -516,7 +516,7 @@
             <div class="service-item d-flex position-relative h-100">
               <a href="../assets/img/service-5.jpg" class="glightbox preview-link d-block w-100 h-100">
                 <img src="../assets/img/service-5.jpg" alt="Service Image" class="img-fluid w-100 h-100 object-fit-cover">
-                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-2"></i>
+                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-4"></i>
               </a>
             </div>
           </div><!-- End Service Item -->
@@ -525,7 +525,7 @@
             <div class="service-item d-flex position-relative h-100">
               <a href="../assets/img/service-6.jpg" class="glightbox preview-link d-block w-100 h-100">
                 <img src="../assets/img/service-6.jpg" alt="Service Image" class="img-fluid w-100 h-100 object-fit-cover">
-                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-2"></i>
+                <i class="bi bi-zoom-in position-absolute top-50 start-50 translate-middle text-white fs-4"></i>
               </a>
             </div>
           </div><!-- End Service Item -->
@@ -676,10 +676,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>App 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>Modular Toilet</h4>
+                  <p>A sleek, durable, and professional sanitation solution.</p>
+                  <a href="../assets/img/portfolio/app-1.jpg" title="Modular Toilet" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -688,10 +688,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Product 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>WorkNest</h4>
+                  <p>A compact, portable office built for comfort and productivity anywhere.</p>
+                  <a href="../assets/img/portfolio/product-1.jpg" title="WorkNest" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -700,10 +700,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Branding 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>SiteCore</h4>
+                  <p>Modular office solutions built tough for demanding construction environments.</p>
+                  <a href="../assets/img/portfolio/branding-1.jpg" title="SiteCore" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -712,22 +712,22 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Books 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>EasyHabitat</h4>
+                  <p>A sleek, smart home unit ready to live in—anywhere you go.</p>
+                  <a href="../assets/img/portfolio/books-1.jpg" title="EasyHabitat" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
               <div class="portfolio-content h-100">
-                <img src="../assets/img/portfolio/app-2.jpeg" class="img-fluid" alt="">
+                <img src="../assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>App 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/app-2.jpeg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>Modular Toilet</h4>
+                  <p>Customizable with washbasins & lighting.</p>
+                  <a href="../assets/img/portfolio/app-2.jpg" title="Modular Toilet" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -736,10 +736,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Product 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  <h4>StructaCabin</h4>
+                  <p>Robust steel-frame modular offices for on-site operations.</p>
                   <a href="../assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -748,10 +748,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Branding 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>SmartSpace</h4>
+                  <p> A modern, mobile living solution designed for comfort, efficiency, and adaptability anywhere.</p>
+                  <a href="../assets/img/portfolio/branding-2.jpg" title="SmartSpace" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -760,22 +760,22 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Books 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>ModuHome</h4>
+                  <p>A compact modular home built for comfort, mobility, and style.</p>
+                  <a href="../assets/img/portfolio/books-2.jpg" title="ModuHome" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <<!-- a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
               <div class="portfolio-content h-100">
-                <img src="../assets/img/portfolio/app-3.jpeg" class="img-fluid" alt="">
+                <img src="../assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>App 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/app-3.jpeg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>FlexiOffice</h4>
+                  <p>A modular office solution that moves and grows with your business.</p>
+                  <a href="../assets/img/portfolio/app-3.jpg" title="FlexiOffice" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -784,10 +784,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Product 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/product-3.jpg" title="Product 3" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>CoreCabin</h4>
+                  <p>A solid, portable workspace designed for long-term corporate use.</p>
+                  <a href="../assets/img/portfolio/product-3.jpg" title="CoreCabin" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -796,10 +796,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Branding 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>BasePod</h4>
+                  <p>Professional-grade site offices designed for mobile deployment.</p>
+                  <a href="../assets/img/portfolio/branding-3.jpg" title="BasePod" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -808,10 +808,10 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>Books 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
-                  <a href="../assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <h4>ProCabin</h4>
+                  <p>A durable, ready-to-use office cabin perfect for on-site operations.</p>
+                  <a href="../assets/img/portfolio/books-3.jpg" title="ProCabin" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
@@ -977,13 +977,13 @@
   <footer id="footer" class="footer dark-background">
 
     <div class="container footer-top">
-      <div class="row gy-4">
+      <div class="row gy-4 justify-content-between align-items-start">
         <div class="col-lg-4 col-md-6 footer-about">
-          <a href="#" class="logo d-flex align-items-center">
+          <a href="#" class="logo d-flex align-items-center mb-3">
                         <img src="../assets/img/logo.png" class="img-fluid" alt="Logo" style="max-width: 150px; height: auto;">
             <span class="sitename">Shaden Porta Cabin</span>
           </a>
-          <div class="footer-contact pt-3">
+          <div class="footer-contact">
             <p>A108 Adam Street</p>
             <p>New York, NY 535022</p>
             <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
@@ -997,7 +997,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-12 footer-links">
+        <div class="col-lg-4 col-md-6 footer-links">
           <h4>Our Services</h4>
           <ul>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Modular Buildings</a></li>
@@ -1008,7 +1008,7 @@
           </ul>
         </div>
 
-        <div class="col-lg-4 col-md-12 footer-links">
+        <div class="col-lg-3 col-md-6 footer-newsletter d-flex justify-content-center align-items-start">
           <img src="../assets/img/clients/client-7.png" class="img-fluid" alt="Client Logo" style="max-width: 150px; height: auto; margin-bottom: 20px;">
           
         </div> 

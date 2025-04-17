@@ -8,6 +8,8 @@ $translateArr = [
 	'Hard Workers' => 'العمال الجادون',
 	'betterSolution'=> 'حلول أفضل لعملك',
 	'Request Quote' => 'طلب اقتباس',
+	'Featured Services' =>'الخدمات المميزة',
+	'Portable Houses' => 'البيوت المحمولة',
 	
 	'getStarted' => 'البدء',
 	'watch video' => 'شاهد الفيديو',
@@ -15,7 +17,7 @@ $translateArr = [
 	'home' => 'الرئيسية',
 	'about' => 'عنا',
 	'services' => 'منتجاتنا',
-	'portfolio' => 'مَلَفّ',
+	'Gallery' => 'معرض',
 	'contact' => 'تواصل معنا',
 	'our services' => 'خدماتنا',
 	'Pricing' => 'التسعير',

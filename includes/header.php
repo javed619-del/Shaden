@@ -14,7 +14,7 @@
           <li><a href="#hero" class="active"><?=$translateArr['home']?></a></li>
           <li><a href="#about"><?=$translateArr['about']?></a></li>
           <li><a href="#services"><?=$translateArr['services']?></a></li>
-          <li><a href="#portfolio"><?=$translateArr['portfolio']?></a></li>
+          <li><a href="#portfolio"><?=$translateArr['Gallery']?></a></li>
           <!-- <li><a href="#team">Team</a></li> -->
           <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>

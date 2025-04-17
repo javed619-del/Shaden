@@ -6,7 +6,7 @@ $lang = $isEnglish ? 'AR' : 'EN';
 
 
 
-<ul class="navbar-nav">
+
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" href="#" id="langDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       <i class="bi bi-globe"></i> <?= $lang ?>
@@ -16,5 +16,5 @@ $lang = $isEnglish ? 'AR' : 'EN';
       <li><a class="dropdown-item" href="/Dewi-1.0.0/en">English</a></li>
     </ul>
   </li>
-</ul>
+
 

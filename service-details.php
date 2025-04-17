@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Service Details - Dewi Bootstrap Template</title>
+  <title>Service Details</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -94,7 +94,7 @@
     <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.webp);">
       <div class="container position-relative">
         <h1>Service Details</h1>
-        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
+        <p><?=$translateArr['Shaden Porta Cabin']?></p>
         <!-- <nav class="breadcrumbs">
           <ol>
             <li><a href="index.html">Home</a></li>
