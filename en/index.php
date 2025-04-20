@@ -904,50 +904,36 @@
 
         <div class="row gy-4">
           <div class="col-lg-6 ">
-            <div class="row gy-4">
-
-              <div class="col-lg-12">
-                <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bi bi-geo-alt"></i>
-                  <h3>Address</h3>
-                  <p>Kingdom of Saudi Arabia - Riyad<br>
-                  Al Kharj Road Exit 11 - Al Heet</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bi bi-telephone"></i>
-                  <h3>Call Us</h3>
-                  <p>+1 5589 55488 55</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
-                  <i class="bi bi-envelope"></i>
-                  <h3>Email Us</h3>
-                  <p>info@example.com</p>
-                </div>
-              </div><!-- End Info Item -->
-
+            <div class="map-container" data-aos="fade-up" data-aos-delay="500" style="height: 100%;">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7238.632167128685!2d46.8969579238426!3d24.645246627434236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f046fccc35b25%3A0x2c091de5a79eb2d7!2sFXPG%2B293%2C%20Hyt%2C%20Riyadh%2014368%2C%20Saudi%20Arabia!5e0!3m2!1sen!2ssa!4v1713533602641!5m2!1sen!2ssa&hl=en"
+                width="100%"
+                height="100%"
+                style="border:0; border-radius: 10px; min-height: 450px;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade">
+              </iframe>
             </div>
           </div>
+            
+
+           
 
           <div class="col-lg-6">
             <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="500">
               <div class="row gy-4">
 
                 <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                  <input type="text" name="name" autocomplete="name" class="form-control" placeholder="Your Name" required="">
                 </div>
 
                 <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                  <input type="email" autocomplete="email" class="form-control" name="email" placeholder="Your Email" required="">
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                  <input type="text" autocomplete="text" class="form-control" name="subject" placeholder="Subject" required="">
                 </div>
 
                 <div class="col-md-12">
@@ -984,8 +970,8 @@
             <span class="sitename">Shaden Porta Cabin</span>
           </a>
           <div class="footer-contact">
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
+            <p>Kingdom of Saudi Arabia - Riyad</p>
+            <p>Al Kharj Road Exit 11 - Al Heet</p>
             <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
             <p><strong>Email:</strong> <span>info@example.com</span></p>
           </div>
