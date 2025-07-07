@@ -1,7 +1,7 @@
 <?php
 
 $translateArr = [
-	'Shaden House' => 'كابينة شادن بورتا',
+	'Shaden House' => 'بيت شادن',
 	'Happy Clients' =>'عملاء سعداء',
 	'Projects' => 'المشاريع',
 	'Hours Of Support' => 'ساعات من الدعم',
@@ -33,7 +33,52 @@ $translateArr = [
 	'Your message has been sent. Thank you!' => 'تم ارسال رسالتك. شكرًا لك!' ,
 	'Join Our Newsletter' => 'اشترك في صحيفتنا الإخبارية' ,
 	'subscribe ' => 'يشترك' ,
-	
+	'securityportacabins'=>'كبائن بورتا الأمنية',
+	'Built to Serve. Ready to Move.'=>'صُمم للخدمة. جاهز للسكن.',
+	'Smart cabins for bold spaces.'=> 'كبائن ذكية لمساحات جريئة.',
+	'Mobile Offices'=>'المكاتب المتنقلة',
+	'Portable Restrooms'=>'المراحيض المحمولة',
+	'Kitchen Cabinets'=>'خزائن المطبخ',
+	'Work Space'=> 'مساحة العمل',
+	'Cabin'=>'المقصورة',
+	'Services'=> 'خدمات',
+	'CHECK OUR SERVICES'=>'تحقق من خدماتنا',
+	'CHECK OUR PORTFOLIO'=>'تحقق من محفظتنا',
+	'Modular Toilet' => 'مرحاض معياري',
+	'Work Nest'=>'عش العمل',
+	'Site Core' =>'جوهر الموقع',
+	'Easy Habitat'=>'الموائل السهلة',
+	'Structa Cabin'=>'كابينة ستروكتا',
+	'Smart Space'=>'الفضاء الذكي',
+	'Modular Home'=>'المنزل المعياري',
+	'Flexi Office' =>'مكتب فليكسي',
+	'Core Cabin' => 'المقصورة الأساسية',
+	'Base Pod' =>'جراب القاعدة',
+	'Pro Cabin'=>'كابينة برو',
+	'Contact'=> 'اتصال',
+	'Shaden Khaled Amash Al Otaibi Est.'=>'مؤسسة شادن خالد عماش العتيبي.',
+	'Loading'=>'تحميل',
+	'Your message has been sent. Thank you!'=> 'تم إرسال رسالتك. شكرًا لك!',
+	'Send Message'=>'أرسل رسالة',
+	'Kingdom of Saudi Arabia - Riyad'=>'المملكة العربية السعودية - الرياض',
+	'Al Kharj Road Exit 11 - Al Heet'=>'طريق الخرج مخرج 11 - الهيت',
+	'Phone'=>'هاتف',
+	'Email'=>'بريد إلكتروني',
+	'Our Services'=> 'خدماتنا',
+	'Your Name'=>'اسمك',
+	'Your Email'=> 'البريد الإلكتروني الخاص بك',
+	'Subject'=>'موضوع',
+	'Message'=>'رسالة',
+	'Modular Buildings'=>'المباني النموذجية',
+	'Guard House'=>'فرقة الحراسة',
+	'Site Storage Containers'=>'حاويات تخزين الموقع',
+	'Modular Cabins'=>'كبائن معيارية',
+	'Pre-fabricated units'=>'وحدات جاهزة',
+
+
+
+
+
 ];
 
 

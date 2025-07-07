@@ -323,30 +323,30 @@
 
         <div class="row gy-4">
 
-          <div class="col-xl-2 col-md-3 col-6 client-logo">
+         <!--  <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="../assets/img/clients/client-1.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div> End Client Item
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="../assets/img/clients/client-2.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>End Client Item 
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="../assets/img/clients/client-3.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>End Client Item
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="../assets/img/clients/client-4.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>End Client Item 
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="../assets/img/clients/client-5.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
+          </div>End Client Item 
 
           <div class="col-xl-2 col-md-3 col-6 client-logo">
             <img src="../assets/img/clients/client-6.png" class="img-fluid" alt="">
-          </div><!-- End Client Item -->
-
+          </div>End Client Item 
+ -->
         </div>
 
       </div>
@@ -563,15 +563,15 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <!-- <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
+                <h3>Moshin Abid</h3>
+                <h4>Technical Person</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                  <span>Porta cabins are more than just temporary shelters — they’re smart, adaptable spaces. At Shaden House, I oversee each build to ensure it's technically sound, energy-efficient, and ready to serve our client's real-world needs.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -579,21 +579,21 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <!-- <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
+                <h3>Farid</h3>
+                <h4>Technical Person</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
+                  <span>At Shaden House, we design high-quality porta cabins built for durability, comfort, and fast deployment — tailored to meet every client’s needs with technical precision.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
@@ -607,9 +607,9 @@
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div> --><!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="../assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
@@ -623,9 +623,9 @@
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div> --><!-- End testimonial item -->
 
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="../assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
                 <h3>John Larson</h3>
@@ -639,7 +639,7 @@
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div> --><!-- End testimonial item -->
 
           </div>
           <div class="swiper-pagination"></div>
@@ -688,7 +688,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>WorkNest</h4>
+                  <h4>Work Nest</h4>
                   <p>A compact, portable office built for comfort and productivity anywhere.</p>
                   <a href="../assets/img/portfolio/product-1.jpg" title="WorkNest" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -700,7 +700,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>SiteCore</h4>
+                  <h4>Site Core</h4>
                   <p>Modular office solutions built tough for demanding construction environments.</p>
                   <a href="../assets/img/portfolio/branding-1.jpg" title="SiteCore" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -712,7 +712,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>EasyHabitat</h4>
+                  <h4>Easy Habitat</h4>
                   <p>A sleek, smart home unit ready to live in—anywhere you go.</p>
                   <a href="../assets/img/portfolio/books-1.jpg" title="EasyHabitat" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -736,7 +736,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>StructaCabin</h4>
+                  <h4>Structa Cabin</h4>
                   <p>Robust steel-frame modular offices for on-site operations.</p>
                   <a href="../assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -748,7 +748,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>SmartSpace</h4>
+                  <h4>Smart Space</h4>
                   <p> A modern, mobile living solution designed for comfort, efficiency, and adaptability anywhere.</p>
                   <a href="../assets/img/portfolio/branding-2.jpg" title="SmartSpace" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -760,7 +760,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>ModuHome</h4>
+                  <h4>Modular Home</h4>
                   <p>A compact modular home built for comfort, mobility, and style.</p>
                   <a href="../assets/img/portfolio/books-2.jpg" title="ModuHome" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <<!-- a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -772,7 +772,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>FlexiOffice</h4>
+                  <h4>Flexi Office</h4>
                   <p>A modular office solution that moves and grows with your business.</p>
                   <a href="../assets/img/portfolio/app-3.jpg" title="FlexiOffice" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -784,7 +784,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>CoreCabin</h4>
+                  <h4>Core Cabin</h4>
                   <p>A solid, portable workspace designed for long-term corporate use.</p>
                   <a href="../assets/img/portfolio/product-3.jpg" title="CoreCabin" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -796,7 +796,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>BasePod</h4>
+                  <h4>Base Pod</h4>
                   <p>Professional-grade site offices designed for mobile deployment.</p>
                   <a href="../assets/img/portfolio/branding-3.jpg" title="BasePod" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
@@ -808,7 +808,7 @@
               <div class="portfolio-content h-100">
                 <img src="../assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>ProCabin</h4>
+                  <h4>Pro Cabin</h4>
                   <p>A durable, ready-to-use office cabin perfect for on-site operations.</p>
                   <a href="../assets/img/portfolio/books-3.jpg" title="ProCabin" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
