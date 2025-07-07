@@ -1,7 +1,7 @@
 <?php
 
 $translateArr = [
-	'Shaden Porta Cabin' => 'كابينة شادن بورتا',
+	'Shaden House' => 'كابينة شادن بورتا',
 	'Happy Clients' =>'عملاء سعداء',
 	'Projects' => 'المشاريع',
 	'Hours Of Support' => 'ساعات من الدعم',

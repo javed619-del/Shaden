@@ -12,8 +12,8 @@ $lang = $isEnglish ? 'AR' : 'EN';
       <i class="bi bi-globe"></i> <?= $lang ?>
     </a>
     <ul class="dropdown-menu" aria-labelledby="langDropdown">
-      <li><a class="dropdown-item" href="/Dewi-1.0.0">عربي</a></li>
-      <li><a class="dropdown-item" href="/Dewi-1.0.0/en">English</a></li>
+      <li><a class="dropdown-item" href="/Shaden">عربي</a></li>
+      <li><a class="dropdown-item" href="/Shaden/en">English</a></li>
     </ul>
   </li>
 

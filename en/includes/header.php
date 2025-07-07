@@ -7,7 +7,7 @@
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="../assets/img/logo.png" alt="">
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1 class="sitename">Shaden Porta Cabin</h1>
+        <h1 class="sitename">Shaden House</h1>
       </a>
 
        

@@ -6,7 +6,7 @@
       <a href="" class="logo d-flex align-items-center mx-auto" >
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/logo.png" alt="">
-        <h1 class="sitename"><?=$translateArr['Shaden Porta Cabin']?></h1>
+        <h1 class="sitename"><?=$translateArr['Shaden House']?></h1>
       </a>
 
       <nav id="navmenu" class="navmenu">

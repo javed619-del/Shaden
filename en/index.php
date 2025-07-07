@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Shaden Porta Cabin</title>
+  <title>Shaden House</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -48,7 +48,7 @@
       <a href="index.html" class="logo d-flex align-items-center mx-auto" >
           Uncomment the line below if you also wish to use an image logo 
         <img src="../assets/img/logo.png" alt="">
-        <h1 class="sitename">Shaden Porta Cabin</h1>
+        <h1 class="sitename">Shaden House</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -90,7 +90,7 @@
 
   <main class="main">
 
-    <a href="https://wa.me/9510075912" class="whatsapp-float" target="_blank">
+    <a href="https://wa.me/966554467464" class="whatsapp-float" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
     </a>
 
@@ -967,13 +967,13 @@
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="#" class="logo d-flex align-items-center mb-3">
                         <img src="../assets/img/logo.png" class="img-fluid" alt="Logo" style="max-width: 150px; height: auto;">
-            <span class="sitename">Shaden Porta Cabin</span>
+            <span class="sitename">Shaden House</span>
           </a>
           <div class="footer-contact">
             <p>Kingdom of Saudi Arabia - Riyad</p>
             <p>Al Kharj Road Exit 11 - Al Heet</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-            <p><strong>Email:</strong> <span>info@example.com</span></p>
+            <p class="mt-3"><strong>Phone:</strong> <span>+966 55 446 7464</span></p>
+            <p><strong>Email:</strong> <span>shadenportacabin@gmail.com</span></p>
           </div>
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>
