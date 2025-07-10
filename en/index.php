@@ -167,18 +167,14 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                At Shaden House, we are committed to excellence in customer service, providing end-to-end support from design consultation to installation and maintenance. Our goal is to offer smart, adaptable spaces that enhance productivity, comfort, and safety for our clients.
               </p>
               <ul>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Specialists in porta cabins and modular structures for versatile use.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Ideal for offices, accommodations, kitchens, toilets, and guard cabins.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span>Energy-efficient, technically sound, and built with safety in mind.</span></li>
               </ul>
-              <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-              </p>
+              
 
               <div class="position-relative mt-4">
                 <img src="../assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
@@ -410,11 +406,11 @@
           <div class="tab-pane fade" id="features-tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
+                <h3>Built with durable materials and hygienic interiors, our portable kitchens ensure a safe and efficient cooking environment.</h3>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Structure: Insulated sandwich panels or steel frame with weatherproof cladding</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Flooring: Anti-slip vinyl or steel plate flooring for hygiene and safety</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Ventilation: Built-in exhaust fan and vents for proper airflow</span></li>
                   
                 </ul>
               </div>
@@ -427,11 +423,11 @@
           <div class="tab-pane fade" id="features-tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
+                <h3> Designed to provide a productive and comfortable environment, these cabins offer flexibility, quick installation, and efficient use of space.</h3>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Interior: Clean and professional finish with options for gypsum, MDF, or vinyl wall lining</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Flooring: Vinyl or wooden flooring for a neat and professional look</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Size Options: Available in standard or customized sizes to suit your requirements</span></li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -443,11 +439,11 @@
           <div class="tab-pane fade" id="features-tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
+                <h3>Built with high-quality materials, these cabins serve multiple purposes, including office spaces, security rooms, accommodation units, kitchens, and more. Portable cabins are ideal for both temporary and semi-permanent applications.</h3>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Mobility: Crane-liftable and easy to transport to different locations</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Quick Installation: Can be set up within hours on any level surface</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Doors & Windows: Secure, lockable doors and UPVC/aluminum windows with glass</span></li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -543,6 +539,10 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
+        <div class="section-title text-center mb-4">
+          <p class="text-light">Our Clients</p>
+        </div>
+
         <div class="swiper init-swiper">
           <script type="application/json" class="swiper-config">
             {
@@ -565,13 +565,13 @@
               <div class="testimonial-item">
                 <!-- <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
                 <h3>Moshin Abid</h3>
-                <h4>Technical Person</h4>
+                <h4>Client</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Porta cabins are more than just temporary shelters — they’re smart, adaptable spaces. At Shaden House, I oversee each build to ensure it's technically sound, energy-efficient, and ready to serve our client's real-world needs.</span>
+                  <span>Shaden House provides top-quality porta cabins that are functional, durable, and visually appealing. Their team delivered exactly what we needed, on time, with great professionalism. Highly recommended!</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -581,65 +581,18 @@
               <div class="testimonial-item">
                 <!-- <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
                 <h3>Farid</h3>
-                <h4>Technical Person</h4>
+                <h4>Client</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>At Shaden House, we design high-quality porta cabins built for durability, comfort, and fast deployment — tailored to meet every client’s needs with technical precision.</span>
+                  <span>Excellent service and high-quality cabins. Delivered on time with full professionalism.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
             </div><!-- End testimonial item -->
 
-            <!-- <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div> --><!-- End testimonial item -->
-
-            <!-- <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div> --><!-- End testimonial item -->
-
-            <!-- <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="../assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <div class="stars">
-                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                </div>
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-              </div>
-            </div> --><!-- End testimonial item -->
 
           </div>
           <div class="swiper-pagination"></div>

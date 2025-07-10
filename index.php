@@ -161,26 +161,22 @@
 
         <div class="row gy-4">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>we specialize in delivering high-quality, portable cabin solutions designed for efficiency, comfort, and durability.</h3>
+            <h3><?= $translateArr['AboutTitle'] ?></h3>
             <img src="assets/img/about.jpg" class="img-fluid rounded-4 mb-4" alt="">
-            <p>Whether you need site offices, living spaces, or custom modular units — our cabins are engineered to move with your mission and built to serve your needs, wherever you are.</p>
-            <p>Porta cabins are prefabricated modular structures designed for quick installation and mobility. They offer cost-effective, durable, and flexible space solutions for a wide range of applications, including site offices, accommodation units, security cabins, classrooms, and more.</p>
+            <p><?= $translateArr['AboutPara1'] ?></p>
+            <p><?= $translateArr['AboutPara2'] ?></p>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                <?= $translateArr['AboutPara3'] ?>
               </p>
               <ul>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span><?= $translateArr['AboutPara4'] ?></span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span><?= $translateArr['AboutPara5'] ?></span></li>
+                <li><i class="bi bi-check-circle-fill"></i> <span><?= $translateArr['AboutPara6'] ?></span></li>
               </ul>
-              <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-              </p>
+              
 
               <div class="position-relative mt-4">
                 <img src="assets/img/about-2.jpg" class="img-fluid rounded-4" alt="">
@@ -272,7 +268,7 @@
                   </a>
                 </div>
                   <h3><?=$translateArr['securityportacabins']?></h3>
-                <p>Providing portable cabins for use as security offices or guard posts at construction sites or public events.</p>
+                <p><?=$translateArr['securityportacabins1']?></p>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -289,7 +285,7 @@
                 </a>
                 </div>
                   <h3><?=$translateArr['Mobile Offices']?></h3>
-                <p>Offices that can be moved and set up on construction sites or at large events for short-term use.</p>
+                <p><?=$translateArr['Mobile Offices1']?></p>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -307,7 +303,7 @@
                 </div>
                 
                   <h3><?=$translateArr['Portable Restrooms']?></h3>
-                <p>Providing porta cabins designed for use as restrooms, either for construction sites or outdoor events.</p>
+                <p><?=$translateArr['Portable Restrooms1']?></p>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -392,14 +388,14 @@
           <div class="tab-pane fade active show" id="features-tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Portable houses designed to meet the needs of hardworking professionals and engineers in every environment.</h3>
+                <h3><?=$translateArr['Portable Houses1']?></h3>
                 
                 <ul>
                   <li><i class="bi bi-check2-all"></i>
-                    <spab>Crafted with precision and durability, our units offer comfort and efficiency at remote work sites.</spab>
+                    <spab><?=$translateArr['Portable Houses2']?></spab>
                   </li>
-                  <li><i class="bi bi-check2-all"></i> <span>Each portable house is engineered for mobility and built to withstand tough working conditions.</span>.</li>
-                  <li><i class="bi bi-check2-all"></i> <span>Smart living spaces for hardworking minds, anytime, anywhere.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Portable Houses3']?></span>.</li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Portable Houses4']?></span></li>
                 </ul>
                
               </div>
@@ -412,21 +408,13 @@
           <div class="tab-pane fade" id="features-tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
+                <h3><?=$translateArr['Kitchen Cabinets1']?></h3>
+                
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Kitchen Cabinets2']?></span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Kitchen Cabinets3']?></span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Kitchen Cabinets4']?></span></li>
+                  
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -438,21 +426,14 @@
           <div class="tab-pane fade" id="features-tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
+                <h3><?=$translateArr['Work Space1']?></h3>
+                
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Work Space2']?></span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Work Space3']?></span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Work Space4']?></span></li>
                 </ul>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
+                
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
                 <img src="assets/img/working-3.jpg" alt="" class="img-fluid">
@@ -463,20 +444,12 @@
           <div class="tab-pane fade" id="features-tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
+                <h3><?=$translateArr['Cabin1']?></h3>
+                
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Cabin2']?></span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Cabin3']?></span></li>
+                  <li><i class="bi bi-check2-all"></i> <span><?=$translateArr['Cabin4']?></span></li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
@@ -574,6 +547,10 @@
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
 
+        <div class="section-title text-center mb-4">
+          <p class="text-light"><?=$translateArr['Our Clients']?></p>
+        </div>
+
         <div class="swiper init-swiper">
           <script type="application/json" class="swiper-config">
             {
@@ -596,13 +573,13 @@
               <div class="testimonial-item">
                 <!-- <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt=""> -->
                 <h3>Moshin Abid</h3>
-                <h4>Technical Person</h4>
+                <h4>Client</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span> Porta cabins are more than just temporary shelters — they’re smart, adaptable spaces. At Shaden House, I oversee each build to ensure it's technically sound, energy-efficient, and ready to serve our client's real-world needs.</span>
+                  <span> Shaden House provides top-quality porta cabins that are functional, durable, and visually appealing. Their team delivered exactly what we needed, on time, with great professionalism. Highly recommended!</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -612,13 +589,13 @@
               <div class="testimonial-item">
                 <!-- <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt=""> -->
                 <h3>Farid</h3>
-                <h4>Technical Person</h4>
+                <h4>Client</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>At Shaden House, we design high-quality porta cabins built for durability, comfort, and fast deployment — tailored to meet every client’s needs with technical precision.</span>
+                  <span>Excellent service and high-quality cabins. Delivered on time with full professionalism.</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -708,7 +685,7 @@
                 <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Modular Toilet']?></h4>
-                  <p>A sleek, durable, and professional sanitation solution.</p>
+                  <p><?=$translateArr['Modular Toilet1']?></p>
                   <a href="assets/img/portfolio/app-1.jpg" title="Modular Toilet" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -720,7 +697,7 @@
                 <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Work Nest']?></h4>
-                  <p>A compact, portable office built for comfort and productivity anywhere.</p>
+                  <p><?=$translateArr['Work Nest1']?></p>
                   <a href="assets/img/portfolio/product-1.jpg" title="WorkNest" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -732,7 +709,7 @@
                 <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Site Core']?></h4>
-                  <p>Modular office solutions built tough for demanding construction environments.</p>
+                  <p><?=$translateArr['Site Core1']?></p>
                   <a href="assets/img/portfolio/branding-1.jpg" title="SiteCore" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -744,7 +721,7 @@
                 <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Easy Habitat']?></h4>
-                  <p>A sleek, smart home unit ready to live in—anywhere you go.</p>
+                  <p><?=$translateArr['Easy Habitat1']?></p>
                   <a href="assets/img/portfolio/books-1.jpg" title="EasyHabitat" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -756,7 +733,7 @@
                 <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Modular Toilet']?></h4>
-                  <p>Customizable with washbasins & lighting.</p>
+                  <p><?=$translateArr['Modular Toilet2']?></p>
                   <a href="assets/img/portfolio/app-2.jpg" title="Modular Toilet" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -768,7 +745,7 @@
                 <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Structa Cabin']?></h4>
-                  <p>Robust steel-frame modular offices for on-site operations.</p>
+                  <p><?=$translateArr['Structa Cabin1']?></p>
                   <a href="assets/img/portfolio/product-2.jpg" title="StructaCabin" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -780,7 +757,7 @@
                 <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Smart Space']?></h4>
-                  <p>A modern, mobile living solution designed for comfort, efficiency, and adaptability anywhere.</p>
+                  <p><?=$translateArr['Smart Space1']?></p>
                   <a href="assets/img/portfolio/branding-2.jpg" title="SmartSpace" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -792,7 +769,7 @@
                 <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Modular Home']?></h4>
-                  <p>A compact modular home built for comfort, mobility, and style.</p>
+                  <p><?=$translateArr['Modular Home1']?></p>
                   <a href="assets/img/portfolio/books-2.jpg" title="ModuHome" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -804,7 +781,7 @@
                 <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Flexi Office']?></h4>
-                  <p>A modular office solution that moves and grows with your business.</p>
+                  <p><?=$translateArr['Flexi Office1']?></p>
                   <a href="assets/img/portfolio/app-3.jpg" title="FlexiOffice" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -816,7 +793,7 @@
                 <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Core Cabin']?></h4>
-                  <p>A solid, portable workspace designed for long-term corporate use.</p>
+                  <p><?=$translateArr['Core Cabin1']?></p>
                   <a href="assets/img/portfolio/product-3.jpg" title="CoreCabin" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -828,7 +805,7 @@
                 <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Base Pod']?></h4>
-                  <p>Professional-grade site offices designed for mobile deployment.</p>
+                  <p><?=$translateArr['Base Pod1']?></p>
                   <a href="assets/img/portfolio/branding-3.jpg" title="BasePod" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
                 </div>
@@ -840,7 +817,7 @@
                 <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4><?=$translateArr['Pro Cabin']?></h4>
-                  <p>A durable, ready-to-use office cabin perfect for on-site operations.</p>
+                  <p><?=$translateArr['Pro Cabin1']?></p>
                   <a href="assets/img/portfolio/books-3.jpg" title="ProCabin" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div> -->
